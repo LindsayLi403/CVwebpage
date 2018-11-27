@@ -8,7 +8,7 @@ output:
 navbar:  
   title: "Shanshan Li"
   left:
-    text: "Projects"
+    text: "Project"
     href: page1.html
     text: "CV"
     herf: index.html
