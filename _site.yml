@@ -7,9 +7,6 @@ output:
     theme: flatly  
 navbar:  
   title: "Shanshan Li"
-  left:
-    text: "Project"
-    href: page1.html
     text: "My webpage"
     herf: index.html
   
